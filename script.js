@@ -5,3 +5,6 @@ function togglemenu(){
     icon.classList.toggle("open");
     
 }
+
+// Shery-js
+Shery.mouseFollower();
